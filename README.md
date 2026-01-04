@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on - Cobol, spring boot ,cybersecurity <br>I'm looking to collaborate on - opensource projects , vulnerability management, Cobol programs for financial institutions, fullback projects<br> I'm looking for help with developing my skillsets in cybersecurity, mainframe, java fullstack<br> I'm currently learning cobol jcl db2 mainframe springboot java angular <br>Ask me about my experiences movie recommendations <br>Fun fact pragmatic enough to work with legacy systems, yet restless enough to imagine reinventing yourself. That tension is basically your creative engine
+I'm currently working on - Cobol, spring boot ,cybersecurity <br>I'm looking to collaborate on - opensource projects , vulnerability management, Cobol programs for financial institutions, fullback projects<br> I'm looking for help with developing my skillsets in cybersecurity, mainframe, java fullstack<br> I'm currently learning cobol jcl db2 mainframe springboot java angular <br>Ask me about my experiences movie recommendations <br>Fun fact pragmatic enough to work with legacy systems, yet restless enough to imagine reinventing myself. That tension is basically my creative engine
 
 
 ## 🌐 Socials:
